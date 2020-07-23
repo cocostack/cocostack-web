@@ -18,7 +18,9 @@ export default {
   /*
   ** Load nuxt modules
   */
-  modules: [],
+  modules: [
+    '@nuxt/content'
+  ],
 
   /*
   ** Load nuxt build-modules
