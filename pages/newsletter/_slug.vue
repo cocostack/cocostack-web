@@ -38,11 +38,16 @@ export default {
   components: {
     NewsletterBar,
   },
+  head() {
+    return {
+      title: this.newsletter.title,
+    }
+  },
   async asyncData({ $content, params, error }) {
     const newsletter = await $content(`newsletter/${params.slug}`).fetch()
-    //   .catch(err => {
-    //     error({ statusCode: 404, message: "Página no encontrada" });
-    //   });
+      .catch(err => {
+        error({ statusCode: 404, message: "Página no encontrada" });
+      });
 
     return {
       newsletter,

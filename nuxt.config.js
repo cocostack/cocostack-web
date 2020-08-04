@@ -67,7 +67,7 @@ export default {
       preset: {
         autoprefixer: {
           cascade: false,
-          grid: true,
+          grid: false,
         },
       },
     },

@@ -78,7 +78,7 @@
 <script>
 export default {
   head: {
-    title: 'Cocostack',
+    title: 'CocoStack',
   },
   layout: 'full-subscription',
 }
