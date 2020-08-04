@@ -42,10 +42,11 @@
           Comprueba tu email
         </div>
         <div class="md:text-3xl text-xl font-bold text-teal-700">
-          Tendrás un correo electrónico mío (Daniel Primo)
+          Tendrás un correo electrónico mío
         </div>
         <div class="mt-4 text-teal-800">
-          Si no lo encuentras tal vez esté en la carpeta de promociones o notificaciones. Si ha habido muy mala pata, estará en spam.
+          Si no lo encuentras tal vez esté en la carpeta de promociones o notificaciones. Si ha habido muy mala pata, estará en spam. <br/>
+          Funciona con cualquier correo electrónico, pero si eres de Gmail o Hotmail aquí tienes un enlace directo.
         </div>
         <a target="_blank" class="block mx-auto my-2 shadow bg-red-800 hover:bg-red-700 focus:shadow-outline focus:outline-none text-white text-xs py-3 px-10 rounded" href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=AddSession">Ir a Gmail para confirmar la suscripción</a>
         <a target="_blank" class="block mx-auto my-2 shadow bg-indigo-800 hover:bg-indigo-700 focus:shadow-outline focus:outline-none text-white text-xs py-3 px-10 rounded" href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1515432288&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fauthRedirect%3dtrue%26RpsCsrfState%3dc7e7df42-2b76-1fea-435a-fce96b8b24e3&id=292841&whr=hotmail.com&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015">Ir a Hotmail (Outlook) para confirmar la suscripción</a>
@@ -83,7 +84,7 @@
           El asunto del mensaje es "Please confirm your subscription"
         </div>
         <div class="mt-4 text-orange-800">
-          Pulsa en  el cobtón naranja que dice "Confirm!" 
+          Pulsa el botón naranja que dice "Confirm!" 
           <br/>
           Está en inglés pero yo te voy a escribir siempre en castellano.
         </div>

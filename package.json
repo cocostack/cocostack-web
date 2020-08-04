@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "@nuxt/content": "^1.4.1",
-    "nuxt": "2.13.3"
+    "@nuxtjs/yandex-metrika": "^1.2.0",
+    "nuxt": "2.13.3",
+    "postcss-nested": "^4.2.3"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "2.0.0",

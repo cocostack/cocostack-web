@@ -11,11 +11,11 @@
           El primer newsletter sobre Jamstack, HeadlessCMS y Static Site
           Generators en castellano.
         </p>
-        <p class="text-center text-red-700 font-bold leading-relaxed">
-          Primer envío: ¡29 de Julio!
+        <p class="text-center text-md leading-relaxed mt-2">
+          Consulta el <a class="underline" href="/newsletter/jamstack-se-escribe-con-coco-1">último envío</a>.
         </p>
         <form
-          class="flex flex-col pt-3 md:pt-8 sendfox-form"
+          class="flex flex-col pt-3 md:pt-4 sendfox-form"
           method="post"
           action="https://sendfox.com/form/1xgdyn/10rzng"
           id="10rzng"
