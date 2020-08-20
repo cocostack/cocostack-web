@@ -12,7 +12,7 @@
           Generators en castellano.
         </p>
         <p class="text-center text-md leading-relaxed mt-2">
-          Consulta el <a class="underline" href="/newsletter/jamstack-se-escribe-con-coco-1">último envío</a>.
+          Consulta el <a class="underline" href="/newsletter/3-probablemente-nunca-necesites-un-headless-cms">último envío</a>.
         </p>
         <form
           class="flex flex-col pt-3 md:pt-4 sendfox-form"
