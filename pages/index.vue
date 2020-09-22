@@ -12,7 +12,7 @@
           Generators en castellano.
         </p>
         <p class="text-center text-md leading-relaxed mt-2">
-          Consulta el <a class="underline" href="/newsletter/4-lo-bueno-y-malo-que-esta-pasando-en-gatsby">último envío</a>.
+          Consulta el <a class="underline" href="/newsletter/6-el-fuego-se-aviva-en-el-ring-de-jamstack-vs-wordpress">último envío</a>.
         </p>
         <form
           class="flex flex-col pt-3 md:pt-4 sendfox-form"
