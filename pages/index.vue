@@ -12,7 +12,7 @@
           Generators en castellano.
         </p>
         <p class="text-center text-md leading-relaxed mt-2">
-          Consulta el <a class="underline" href="/newsletter/7-directus-un-headless-cms-que-puede-ser-tu-primer-pie-en-el-jamstack">último envío</a>.
+          Consulta el <a class="underline" href="/newsletter/8-el-e-commerce-es-el-nuevo-campo-de-batalla">último envío</a>.
         </p>
         <form
           class="flex flex-col pt-3 md:pt-4 sendfox-form"
