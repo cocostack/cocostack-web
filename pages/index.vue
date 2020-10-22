@@ -12,7 +12,7 @@
           Generators en castellano.
         </p>
         <p class="text-center text-md leading-relaxed mt-2">
-          Consulta el <a class="underline" href="/newsletter/8-el-e-commerce-es-el-nuevo-campo-de-batalla">último envío</a>.
+          Consulta el <a class="underline" href="/newsletter/9-los-mitos-del-jamstack-mas-descubiertos-que-la-maja-desnuda">último envío</a>.
         </p>
         <form
           class="flex flex-col pt-3 md:pt-4 sendfox-form"
